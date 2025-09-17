@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá 👋
+
+Me chamo Otávio, tenho 26 anos, sou formado em física e atualmente estou estudando mais sobre programação!
 
 <!--
 **otaviorooliver/otaviorooliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
